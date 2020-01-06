@@ -20,23 +20,23 @@ This automated system demonstrated that classification of thyroid nodules as mal
 
 Examples of thyroid nodule ultrasound images from the Radiological Society of North America
 
-######TI-RADS 1: 
+###### TI-RADS 1: 
 
 ![TIRADS](TR1.gif)
 
-######TI-RADS 1: 
+###### TI-RADS 1: 
 
 ![TIRADS](TR2.gif)
 
-######TI-RADS 1: 
+###### TI-RADS 1: 
 
 ![TIRADS](TR3.gif)
 
-######TI-RADS 1: 
+###### TI-RADS 1: 
 
 ![TIRADS](TR4.gif)
 
-######TI-RADS 1: 
+###### TI-RADS 1: 
 
 ![TIRADS](TR5.gif)
 
