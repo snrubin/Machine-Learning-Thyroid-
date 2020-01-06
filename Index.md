@@ -11,9 +11,7 @@ The automated system could correctly predict malignancy in thyroid nodules withi
 
 #### Conclusion:
 This automated system demonstrated that classification of thyroid nodules as malignant or benign using machine learning is feasible. Future work will include the utilization of this prediction model to grade thyroid nodules using the full TIRADS scale. Automating TIRADS may be useful to guide practitioners using evidence-based recommendations, lead to rapid and reproducible structured reports, decrease invasive procedures to diagnose nodules, and provide a metric for quantifying the severity of thyroid nodules.
-
 <br/>
-
 ![TIRADS](TIRADS.jpg)
 
 <br/><br/><br/>
