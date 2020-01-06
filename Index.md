@@ -24,19 +24,19 @@ Examples of thyroid nodule ultrasound images from the Radiological Society of No
 
 ![TIRADS](TR1.gif)
 
-###### TI-RADS 1: 
+###### TI-RADS 2: 
 
 ![TIRADS](TR2.gif)
 
-###### TI-RADS 1: 
+###### TI-RADS 3: 
 
 ![TIRADS](TR3.gif)
 
-###### TI-RADS 1: 
+###### TI-RADS 4: 
 
 ![TIRADS](TR4.gif)
 
-###### TI-RADS 1: 
+###### TI-RADS 5: 
 
 ![TIRADS](TR5.gif)
 
