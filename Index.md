@@ -1,5 +1,13 @@
 # Machine learning with ultrasound to automate risk stratification and reduce fine needle aspiration in thyroid cancer
 
+### Sydney Rubin <sup>1</sup>, Joseph Adams<sup>1</sup>, Joseph Cox<sup>1</sup>, Carina Pereira<sup>2</sup>, Manjiri Dighe<sup>2</sup>, Adam Alessio<sup>1</sup> 
+#### <sup>1</sup>Michigan State University, <sup>2</sup>University of Washington
+<br/>
+
+Contact information for Sydney Rubin:
+<br/>505-681-0951
+<br/>srubin@msu.edu
+
 #### Background:
 Thyroid nodules are prevalent among adults, though only a small portion of these nodules are malignant. Ultrasounds are commonly used to risk stratify nodules and definitive diagnosis is made through invasive procedures, such as fine needle aspiration (FNA). This study aims to automatically risk stratify thyroid nodules to determine which nodules need FNA and ultimately reduce the number of unnecessary FNAs. While machine learning has been applied to improve Thyroid Imaging, Reporting, and Data System (TI-RADS) using manually extracted features, to date there has been few applications of machine-learning to automatically classify ultrasound images. 
 
