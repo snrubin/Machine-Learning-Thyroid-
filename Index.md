@@ -8,6 +8,8 @@ Contact information for Sydney Rubin:
 <br/>505-681-0951
 <br/>srubin@msu.edu
 
+<br/>
+
 #### Background:
 Thyroid nodules are prevalent among adults, though only a small portion of these nodules are malignant. Ultrasounds are commonly used to risk stratify nodules and definitive diagnosis is made through invasive procedures, such as fine needle aspiration (FNA). This study aims to automatically risk stratify thyroid nodules to determine which nodules need FNA and ultimately reduce the number of unnecessary FNAs. While machine learning has been applied to improve Thyroid Imaging, Reporting, and Data System (TI-RADS) using manually extracted features, to date there has been few applications of machine-learning to automatically classify ultrasound images. 
 
