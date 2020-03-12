@@ -64,7 +64,7 @@ Examples of thyroid nodule ultrasound images from the Radiological Society of No
 ![TIRADS](TR5.gif)
 ###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide.
 
-<br/>
+<br/><br/> 
 
 
 
