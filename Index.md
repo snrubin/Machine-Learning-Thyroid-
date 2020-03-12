@@ -23,30 +23,38 @@ This automated system demonstrated that classification of thyroid nodules as mal
 <br/>
 
 ![TIRADS](TIRADS.jpg)
+###### Tessler, Franklin N. et al. (2017, May). Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the ACR TI-RADS Committee
+
 
 <br/><br/><br/>
 
 Examples of thyroid nodule ultrasound images from the Radiological Society of North America
 
-###### TI-RADS 1: 
+##### TI-RADS 1: 
 
 ![TIRADS](TR1.gif)
+###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide.
 
-###### TI-RADS 2: 
+
+##### TI-RADS 2: 
 
 ![TIRADS](TR2.gif)
+###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide.
 
-###### TI-RADS 3: 
+##### TI-RADS 3: 
 
 ![TIRADS](TR3.gif)
+###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide.
 
-###### TI-RADS 4: 
+##### TI-RADS 4: 
 
 ![TIRADS](TR4.gif)
+###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide.
 
-###### TI-RADS 5: 
+##### TI-RADS 5: 
 
 ![TIRADS](TR5.gif)
+###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide.
 
 <br/>
 
